@@ -1,0 +1,13 @@
+HOBEKUNTZAK:
+Aurretik entregaturiko kodearekin alderatuta honek:
+- Kontu berria eta pago berria egitean uzten du
+- Datuak ezabatu daitezke
+- Kontuak ikus daitezke
+
+AKATSAK:
+Editatzeko atalak ez du funtzionatzen, esango genuke arazoa dokumentu bakar batean dagoela.
+	ERREBISATU BEHARREKO FITXATEGIAK: economico_update.php eta economico_edit.php
+	Akatsa economico_update.php fitxategian dagoela uste dugu.
+
+Aipatzekoak:
+- Cuentas taula sortu dugu.
